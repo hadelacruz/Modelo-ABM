@@ -1,4 +1,4 @@
-# Laboratorio 4 — CC2017 Modelación y Simulación
+# Laboratorio 4
 
 Modelo ABM en Mesa de un sistema de bicicletas compartidas: se compara la
 congestión vehicular de un centro urbano (cuadrícula 20×20) con y sin la
